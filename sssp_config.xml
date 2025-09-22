@@ -3,4 +3,6 @@
 <ver>9.0</ver>
 <size>80</size>
 <widgetname>JobbiTV</widgetname>
+<refreshInterval>0</refreshInterval>
+<url>http://ntcjobbiblazorapp-demo.eu-central-1.elasticbeanstalk.com/tv</url>
 </widget>
