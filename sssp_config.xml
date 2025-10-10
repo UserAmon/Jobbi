@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+  <ver>1.0.0</ver>
+  <size>80</size>
+  <widgetname>Jobbi</widgetname>
+  <url>http://ntcjobbiblazorapp-demo.eu-central-1.elasticbeanstalk.com/tv</url>
+  <refreshInterval>0</refreshInterval>
+</widget>
