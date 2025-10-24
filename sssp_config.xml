@@ -3,6 +3,7 @@
   <ver>1.0.0</ver>
   <size>80</size>
   <widgetname>Jobbi</widgetname>
+  <content src="https://jobbitv.s3.eu-central-1.amazonaws.com/j/Jobbi.wgt"/>
   <url>http://ntcjobbiblazorapp-demo.eu-central-1.elasticbeanstalk.com/tv</url>
   <refreshInterval>0</refreshInterval>
 </widget>
